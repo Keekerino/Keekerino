@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### hope you have a great day!
 
+I am currently working on my first Blog. 
 <!--
 **Keekerino/Keekerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
